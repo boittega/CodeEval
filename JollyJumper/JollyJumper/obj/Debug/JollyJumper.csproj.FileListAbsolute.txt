@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\bin\Debug\JollyJumper.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\bin\Debug\JollyJumper.exe
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\bin\Debug\JollyJumper.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\obj\Debug\JollyJumper.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\obj\Debug\JollyJumper.exe
+c:\users\rafael\documents\visual studio 2013\Projects\JollyJumper\JollyJumper\obj\Debug\JollyJumper.pdb

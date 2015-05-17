@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\bin\Debug\FileSize.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\bin\Debug\FileSize.exe
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\bin\Debug\FileSize.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\obj\Debug\FileSize.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\obj\Debug\FileSize.exe
+c:\users\rafael\documents\visual studio 2013\Projects\FileSize\FileSize\obj\Debug\FileSize.pdb

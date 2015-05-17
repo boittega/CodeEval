@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\bin\Debug\DataRecovery.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\bin\Debug\DataRecovery.exe
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\bin\Debug\DataRecovery.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\obj\Debug\DataRecovery.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\obj\Debug\DataRecovery.exe
+c:\users\rafael\documents\visual studio 2013\Projects\DataRecovery\DataRecovery\obj\Debug\DataRecovery.pdb

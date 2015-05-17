@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\bin\Debug\RemoveCharacteres.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\obj\Debug\RemoveCharacteres.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\bin\Debug\RemoveCharacteres.exe
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\bin\Debug\RemoveCharacteres.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\obj\Debug\RemoveCharacteres.exe
+c:\users\rafael\documents\visual studio 2013\Projects\RemoveCharacteres\RemoveCharacteres\obj\Debug\RemoveCharacteres.pdb

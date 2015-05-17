@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\bin\Debug\NumberOnes.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\bin\Debug\NumberOnes.exe
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\bin\Debug\NumberOnes.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\obj\Debug\NumberOnes.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\obj\Debug\NumberOnes.exe
+c:\users\rafael\documents\visual studio 2013\Projects\NumberOnes\NumberOnes\obj\Debug\NumberOnes.pdb

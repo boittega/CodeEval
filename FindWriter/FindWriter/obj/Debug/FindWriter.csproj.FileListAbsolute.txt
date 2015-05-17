@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\bin\Debug\FindWriter.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\bin\Debug\FindWriter.exe
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\bin\Debug\FindWriter.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\obj\Debug\FindWriter.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\obj\Debug\FindWriter.exe
+c:\users\rafael\documents\visual studio 2013\Projects\FindWriter\FindWriter\obj\Debug\FindWriter.pdb

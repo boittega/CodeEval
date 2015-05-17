@@ -1,0 +1,6 @@
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\bin\Debug\ReverseAdd.exe.config
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\bin\Debug\ReverseAdd.exe
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\bin\Debug\ReverseAdd.pdb
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\obj\Debug\ReverseAdd.csprojResolveAssemblyReference.cache
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\obj\Debug\ReverseAdd.exe
+c:\users\rafael\documents\visual studio 2013\Projects\ReverseAdd\ReverseAdd\obj\Debug\ReverseAdd.pdb
